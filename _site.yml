@@ -3,11 +3,13 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "Google"
+      href: http://github.com/bst-p8105/
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: https://www.google.com
 output:
   html_document
