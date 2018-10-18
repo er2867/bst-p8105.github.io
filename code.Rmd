@@ -1,0 +1,14 @@
+---
+title: "Code"
+---
+
+
+```{r}
+library(tidyverse)
+
+tibble(
+  x = 1:10,
+  y = x + 2
+)
+```
+
