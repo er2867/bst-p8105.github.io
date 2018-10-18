@@ -24,3 +24,15 @@ Ain't she great:
 
 <img src = "images/heres_my_dog.png" style = "width:105%">
 
+
+### I can add code
+
+```{r}
+library(tidyverse)
+
+tibble(
+  x = 1:10,
+  y = x + 2
+)
+```
+
