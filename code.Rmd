@@ -2,6 +2,7 @@
 title: "Code"
 ---
 
+This page shows some example code.
 
 ```{r}
 library(tidyverse)
