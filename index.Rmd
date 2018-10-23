@@ -21,7 +21,7 @@ I like [to look for code on the internet](https://www.google.com).
 
 I can link directly to my [about page](about.html).
 
-[about page](about.Rmd).
+<a href="about.Rmd">link</a>
 
 
 ### Picture of my dog
