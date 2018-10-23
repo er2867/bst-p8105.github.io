@@ -21,7 +21,7 @@ I like [to look for code on the internet](https://www.google.com).
 
 I can link directly to my [about page](about.html).
 
-<a href="about.Rmd">link</a>
+[about page](template/dashboard_template.Rmd).
 
 
 ### Picture of my dog
