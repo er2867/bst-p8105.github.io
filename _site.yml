@@ -3,6 +3,14 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: Examples
+      menu:
+      - text: Code
+        href: code.html
+      - text: Plotly
+        href: plotly.html
+      - text: Dashboard
+        href: dashboard_template.html
     - text: "Google"
       href: https://www.google.com
     - text: "About"
